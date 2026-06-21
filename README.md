@@ -8,6 +8,11 @@ An end-to-end supply chain analytics system that uses **ABCXYZ segmentation** to
 
 ---
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/76484261-0047-463b-9dd9-5afe5373b13a" />
+
+---
+
+
 # 📋 Table of Contents
 
 1. [Overview](#overview)
