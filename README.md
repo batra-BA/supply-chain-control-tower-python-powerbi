@@ -4,7 +4,25 @@
 
 # Brief One Line Summary
 
-An end-to-end supply chain analytics system that uses **ABCXYZ segmentation** to prioritize SKUs, forecast demand, optimize inventory, recover value from returns, and flag operational exceptions through a control tower dashboard.
+An end-to-end supply chain analytics system that uses **ABCXYZ segmentation** to prioritize SKUs, forecast demand, optimize inventory, recover value from returns, and flag operational exceptions through an integrated control tower.
+
+---
+
+# 📋 Table of Contents
+
+1. [Overview](#overview)
+2. [Problem Statement](#problem-statement)
+3. [Dataset](#dataset)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Methods](#methods)
+6. [Key Insights](#key-insights)
+7. [Dashboard / Model / Output](#dashboard--model--output)
+8. [How to Run this Project](#how-to-run-this-project)
+9. [Results & Conclusion](#results--conclusion)
+10. [Future Work](#future-work)
+11. [Author & Contact](#author--contact)
+
+---
 
 # Overview
 
@@ -243,7 +261,7 @@ Shows:
 - Control tower KPI tables
 - Power BI-ready exports
 
-# How to Run this project?
+# How to Run this Project
 
 ## Step 1: Open the notebooks
 Open the project notebooks in **Google Colab** or **Jupyter Notebook**.
